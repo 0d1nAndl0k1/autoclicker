@@ -6,7 +6,7 @@ The togle key can start/stop the clicking. in the script go to.
 ```usage
 start_stop_key = KeyCode(char='x') 
 ```
-change the 'x' to what ever you want to use to togle the script try to use not a important key to your game 
+change the 'x' to what ever you want to use to togle the script, try not to use a important key to your game 
 ## change the click speed
 ```usage
 delay = 0.075
