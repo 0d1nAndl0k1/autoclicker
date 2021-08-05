@@ -5,7 +5,7 @@ from pynput.keyboard import Listener, KeyCode
 
 # delay is the how often to it clicks in a milla sec .75 is about 10cps
 # Start/stop key is the key you use to start the auto clicker it can be anything but i just used x
-# Exit key is the key you use to complety close the script so if you use this for a game you wouldn't want it to be a essential button that why its 8
+# Exit key is the key you use to complety close the script so if you use this for a game you wouldn't want it to be a essential button that why its -
 delay = 0.075
 button = Button.left
 start_stop_key = KeyCode(char='x')
